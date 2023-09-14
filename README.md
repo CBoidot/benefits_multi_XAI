@@ -6,7 +6,7 @@ In a nutshell: we use a dataset of League of Legends in order to explore human-A
 Do XAI methods help us? Which one is the best? I investigate these questions using a multi-explanation interface for an in-subject experiment.
 
 Here are the main app and assets to install in order to run the experiment.
-Further refactoring may be done in another repo, comments are done in French, so do not consider using the files in "brouillons" (litterally "drafts") to re-compute the explainations.
+Further refactoring may be done in another repo, comments are done in French, so do not consider using the files in "brouillons" (litterally "drafts") to re-compute the explanations.
 
 
 ### HOW TO USE ###
