@@ -1,0 +1,15 @@
+name: expenv1
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+
+
+  - matplotlib=3.5.0
+  - numpy=1.18.5
+  - pandas=1.1.5
+  - scikit-learn=1.0.1
+
+    
+# prefix: /home/Corentin.Boidot/anaconda3/envs/cbenv1

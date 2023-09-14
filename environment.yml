@@ -1,0 +1,21 @@
+name: expenv1
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+
+
+  - ipywidgets=7.6.5
+  - matplotlib=3.5.0
+  - numpy=1.18.5
+  - openpyxl=3.0.9
+  - pandas=1.1.5
+  - python=3.8.12
+  - scikit-learn=1.0.1
+  - shap = 0.40
+  - spyder-kernels>=2.3 #1.9.4
+  - streamlit=1.4.0
+
+    
+# prefix: /home/Corentin.Boidot/anaconda3/envs/cbenv1
