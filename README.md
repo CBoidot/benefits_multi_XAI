@@ -7,9 +7,6 @@ Do XAI methods help us? Which one is the best? I investigate these questions usi
 
 Here are the main app and assets to install in order to run the experiment.
 Further refactoring may be done in another repo, comments are done in French, so do not consider using the files in "brouillons" (litterally "drafts") to re-compute the explainations.
-à l'utilisation d'un dataset de League of Legends, en vu d'évaluer l'efficacité des méthodes d'XAI dans l'aide à la prise de décision.
-
-> main2.py à éxécuter pour l'expé 2.
 
 
 ### HOW TO USE ###
